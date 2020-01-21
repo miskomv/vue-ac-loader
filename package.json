@@ -1,0 +1,24 @@
+{
+  "name": "vue-ac-loader",
+  "version": "1.0.0",
+  "description": "Vue AC Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miskomv/vue-ac-loader.git"
+  },
+  "keywords": [
+    "Vue",
+    "Plugin",
+    "Loader"
+  ],
+  "author": "miSkoMV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miskomv/vue-ac-loader/issues"
+  },
+  "homepage": "https://github.com/miskomv/vue-ac-loader#readme"
+}
