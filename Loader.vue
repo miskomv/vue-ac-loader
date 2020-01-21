@@ -1,7 +1,7 @@
 <template>
     <transition enter-active-class="fadeIn" leave-active-class="fadeOut" :duration="500">
         <div class="vue-ac-loader" v-if="visible">
-            <img src="loading.svg" alt="Loading">
+            <img src="./loading.svg" alt="Loading">
         </div>
     </transition>
 </template>
